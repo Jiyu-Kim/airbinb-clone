@@ -160,3 +160,7 @@ cython_debug/
 #.idea/
 
 assignments/
+
+airbnb-clone-backend/houses
+
+airbnb-backend/memoji-wink.png
